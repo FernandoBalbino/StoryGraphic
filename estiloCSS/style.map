@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../estiloSCSS/style.scss"
+	],
+	"sourcesContent": [
+		"#header{\r\n\tbackground-image: url(../imagens/header.jpg);\r\n\theight: 100vh;\r\n\tbackground-color: red;\r\n}"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,OAAO,CAAA;EACN,gBAAgB,EAAE,0BAA0B;EAC5C,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,GAAG;CACrB"
+}
